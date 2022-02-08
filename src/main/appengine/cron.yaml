@@ -1,0 +1,4 @@
+cron:
+- description: "cron example job"
+  url: /cron/execute
+  schedule: every 1 minutes
