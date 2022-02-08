@@ -1,3 +1,6 @@
 runtime: java11
 instance_class: F1
 service: default
+
+env_variables:
+  APP_VERSION: "v1"
